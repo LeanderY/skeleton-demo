@@ -1,0 +1,4 @@
+build/*.js
+src/components/Swiper/*.js
+public
+dist
